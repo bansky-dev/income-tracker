@@ -1,0 +1,14 @@
+/home/kociarz/_repos/income-tracker/income-tracker/bin/Debug/net8.0/income-tracker
+/home/kociarz/_repos/income-tracker/income-tracker/bin/Debug/net8.0/income-tracker.deps.json
+/home/kociarz/_repos/income-tracker/income-tracker/bin/Debug/net8.0/income-tracker.runtimeconfig.json
+/home/kociarz/_repos/income-tracker/income-tracker/bin/Debug/net8.0/income-tracker.dll
+/home/kociarz/_repos/income-tracker/income-tracker/bin/Debug/net8.0/income-tracker.pdb
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.AssemblyInfoInputs.cache
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.AssemblyInfo.cs
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.csproj.CoreCompileInputs.cache
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.dll
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/refint/income-tracker.dll
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.pdb
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.genruntimeconfig.cache
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/ref/income-tracker.dll
