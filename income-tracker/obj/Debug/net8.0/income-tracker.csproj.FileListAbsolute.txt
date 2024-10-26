@@ -12,3 +12,4 @@
 /home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.pdb
 /home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.genruntimeconfig.cache
 /home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/ref/income-tracker.dll
+/home/kociarz/_repos/income-tracker/income-tracker/obj/Debug/net8.0/income-tracker.sourcelink.json
